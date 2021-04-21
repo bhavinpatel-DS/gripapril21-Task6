@@ -1,0 +1,30 @@
+#gripapril21 #task6 #thesparksfoundation
+
+Task 6 : Prediction using Decision Tree Algorithm - iris dataset
+
+(Level - Intermediate)
+
+Author : Bhavinkumar Patel
+
+#gripapril21
+
+● Create the Decision Tree classifier and visualize it graphically.
+
+● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+
+● Tool Used - (Python) Jupyter Notebook
+
+● Algorithm Used - Decision Tree Classifier 
+
+● Advanced Level - Create storyboards. Screen-record along with audio explaining the charts and interpretations. Use annotations, animation and images.
+
+● Dataset - https://bit.ly/3kXTdox
+
+● GitHub.com - https://github.com/bhavinpatel-DS/gripapril21-Task6.git
+
+● YouTube.com - https://youtu.be/ZskPrZpME4U
+
+
+#thesparksfoundation #task6 #gripapril21 #gripapr21 
+#internship #exploratorydataanalysis #ipldataanalysis 
+#python #dataanalysis #datascience #machinelearning
